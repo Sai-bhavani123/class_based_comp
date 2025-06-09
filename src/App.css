@@ -1,0 +1,8 @@
+/* App.css */
+.app-container {
+  background-color: #ffe0f0; /* light pink */
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

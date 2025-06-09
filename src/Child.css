@@ -1,0 +1,35 @@
+/* Child.css */
+.counter-box {
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  .counter-box h1 {
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .counter-box h2 {
+    font-size: 2rem;
+    margin: 20px 0;
+  }
+  
+  .counter-box button {
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 1.5rem;
+    border: none;
+    border-radius: 6px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .counter-box button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  
